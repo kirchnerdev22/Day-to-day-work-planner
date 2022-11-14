@@ -9,6 +9,8 @@ Description
 
 Screenshots of finished website
 
+![Screenshot (36)](https://user-images.githubusercontent.com/114694410/201786646-40e85d63-0b94-4d52-8ab8-bd4b862c00a5.png)
+
 About Me
 
 Link to deployed site
@@ -28,4 +30,4 @@ About Me
 Hey! Nice to see you again. This project actually felt like a breeze. This is a simple day to day planner that will help cleanup schedules. Rose means the hour has passed, Beige is current, and Burlywood is future!
 
 Link To Deployed Site
-
+https://kirchnerdev22.github.io/Day-to-day-work-planner/
