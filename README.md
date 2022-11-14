@@ -25,7 +25,7 @@ Has different colorsto signify what hour is past, present, and future.
 Allows input to be saved for each hour.
 
 About Me
-Hey! Nice to see you again. This project actually felt like a breeze. This is a simple day to day planner that will help cleanup schedules. Grey means the hour has passed, red is current, and green is future!
+Hey! Nice to see you again. This project actually felt like a breeze. This is a simple day to day planner that will help cleanup schedules. Rose means the hour has passed, Beige is current, and Burlywood is future!
 
 Link To Deployed Site
 
